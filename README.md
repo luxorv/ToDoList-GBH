@@ -3,7 +3,7 @@ ToDoList-GBH
 
 ToDoList-GBH is a simple ToDo-List that makes your life easier, but you don't wanna hear that, lets get serious...
 
-  To install ToDoList-GBH you just have:
+  To install ToDoList-GBH you just have to:
 
     - Download the project
     - Install python(https://www.python.org/)
