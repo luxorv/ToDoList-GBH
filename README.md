@@ -5,8 +5,8 @@ ToDoList-GBH is a simple ToDo-List that makes your life easier, but you don't wa
   To install ToDoList-GBH you just have to:
 
     - Download the project
-    - Install python(https://www.python.org/)
-    - Install virtualenv(http://www.virtualenv.org/en/latest/)
+    - Install [python](https://www.python.org/)
+    - Install [virtualenv](http://www.virtualenv.org/en/latest/)
 
   Next on the command prompt or bash move inside the directory 'Back-End' and activate the enviroment, you do so with:
     
